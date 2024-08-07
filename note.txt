@@ -1,0 +1,5 @@
+Dataframe:
+data frame is an object within pandas package that allows us to easily access different rows and columns from something like csv file
+
+MASK:
+mask is something that we can apply to the different rows inside of our data frame to see if we should select the row or not
